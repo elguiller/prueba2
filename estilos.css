@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#wrapper {
+	width: 1020px;
+}
+#main {
+	width: 72%;
+	float: left;
+}
+#sidebar {
+	width: 22%;
+	float: right;
+}
+footer {
+	clear: both;
+}
